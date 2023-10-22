@@ -1,0 +1,3 @@
+module latihan-async-1
+
+go 1.20
